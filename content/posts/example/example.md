@@ -1,57 +1,33 @@
 ---
-title: "Lorem ipsum"
+title: "데모 블로그 글입니다."
 path: "/demo"
-tags: ["Demo"]
+tags: ["태그"]
 featuredImage: "./cover.jpg"
-excerpt: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+excerpt: React로 만들어진 페이지 입니다. 해당 페이지는 마크다운으로 작성되어졌습니다. 
 created: 2019-07-22
 updated: 2019-07-22
 ---
 
-## Cruciabere instruit
+## 기가 막힌 페이지 출력입니다.
 
-Lorem markdownum et altis custodia, si castaque culpavit *stipite*. Dat ad stat,
-his, comites fuit subito [fer](http://geminis.com/) dabat videri et cernis
-patriorum! Erit facti poma mares tempora, trahebat catenas freto constabat
-faucibus quicquid.
+위에 나온 이미지는 히어로 이미지 인거 같다.      
+이미지를 사용하기 위해서 마크다운 문법을 사용한거 같기도 한데 잘 모르겠다.      
+이페이지도 아마도 다르게 표시되어지는게 아닐까
 
-Et tibi pavidus dicentem virgo quod illi tantum parvos deum silvas habet
-manuque! Nec tu lassa si didicit corpus reformet in poterat picea.
+![Alt](/cover.jpg)
 
-    mainframe.printer = imapRippingE / 3;
-    rfidCell += illegalControlBaud - real;
-    dns.aixScraping.ocr_syntax_default(output_t);
+이미지 출력도 기가 막히게 예쁘게 나오네요
 
-## Amens ferox ego non has iuventa incidit
+> 사소한 것에 목숨을 걸라       
+> -신변잡기 철학
 
-In Phoebeos sed usus genitor. Ut proles natus late cornu instant dura enixa
-melior Iasonis ponunt te inficit crinita **mensae**. Fiducia sua silvis sacer,
-quae tuo dum!
 
-> Nepotis hoc sine huic stupet. Mihi sine lucem, intrat annis regimen silvaque
-> victos, iam domus illa. Fronde me favilla, unda balistave gradus, dextram
-> Ilithyiam **insequitur** disque? Quam grande fortuna lunae amico inque solent
-> violasse intellege nocte vitiaverit armis insignia in seque exasperat,
-> **volubile** vestemque.
+## 미안하다 사실은 이거 보여줄려고 어그로끌었다.
 
-## Dilapsa sententia o querenti tamen
+미안하다 이거 보여주려고 어그로끌었다.. 나루토 사스케 싸움수준 ㄹㅇ실화냐? 진짜 세계관최강자들의 싸움이다.. 그찐따같던 나루토가 맞나? 진짜 나루토는 전설이다..진짜옛날에 맨날나루토봘는데 왕같은존재인 호카게 되서 세계최강 전설적인 영웅이된나루토보면 진짜내가다 감격스럽고 나루토 노래부터 명장면까지 가슴울리는장면들이 뇌리에 스치면서 가슴이 웅장해진다.. 그리고 극장판 에 카카시앞에 운석날라오는 거대한 걸 사스케가 갑자기 순식간에 나타나서 부숴버리곤 개간지나게 나루토가 없다면 마을을 지킬 자는 나밖에 없다 라며 바람처럼 사라진장면은 진짜 나루토처음부터 본사람이면 안울수가없더라 진짜 너무 감격스럽고 보루토를 최근에 알았는데 미안하다.. 지금20화보는데 진짜 나루토세대나와서 너무 감격스럽고 모두어엿하게 큰거보니 내가 다 뭔가 알수없는 추억이라해야되나 그런감정이 이상하게 얽혀있다.. 시노는 말이많아진거같다 좋은선생이고..그리고 보루토왜욕하냐 귀여운데 나루토를보는것같다 성격도 닮았어 그리고버루토에 나루토사스케 둘이싸워도 이기는 신같은존재 나온다는게 사실임?? 그리고인터닛에 쳐봣는디 이거 ㄹㅇㄹㅇ 진짜팩트냐?? 저적이 보루토에 나오는 신급괴물임?ㅡ 나루토사스케 합체한거봐라 진짜 ㅆㅂ 이거보고 개충격먹어가지고 와 소리 저절로 나오더라 ;; 진짜 저건 개오지는데.. 저게 ㄹㅇ이면 진짜 꼭봐야돼 진짜 세계도 파괴시키는거아니야 .. 와 진짜 나루토사스케가 저렇게 되다니 진짜 눈물나려고했다.. 버루토그라서 계속보는중인데 저거 ㄹㅇ이냐..? 하.. ㅆㅂ 사스케 보고싶다..  진짜언제 이렇게 신급 최강들이 되었을까 옛날생각나고 나 중딩때생각나고 뭔가 슬프기도하고 좋기도하고 감격도하고 여러가지감정이 복잡하네.. 아무튼 나루토는 진짜 애니중최거명작임..      
 
-Poenarum quaerebat me mundi, in fuerint coniungere puellis omnes. Victor numen
-se origo peccasse quosque dimisit ore sibi deorum miserrimus! Ecce est quamquam
-est auctor; hoste mihi scelus virum; si ire herbis lumina patris, umbrae. Simul
-alienaque *in* oscula, iuvenca herbarum o [resque
-auribus](http://pessimalaboribus.io/mole), iugo? **Apta** magna videt profusis
-pressit vertit, mea ego temptantes Orionis, vita.
 
-Est rectorque *ales ubi* extremis demens plaustrum sub, puppis semilacerque
-gerit reppulerint et barbare caput non est dierum tertia. Hinc
-[tua](http://paulatimque.com/simillima-quae.html) veluti linguae conlegit fronde
-altera scitarier amor primordia, flammae antemnas sanguisque. Anienis praeterita
-ducit. Echidnaeae quibus lympha, ius sonumque occupat gladios.
-
-Suo perstat matris; sed laborum, nec Tethys: sedes vera paenitet genibus est,
-os. Vota restabat Martius poposcerit infelix faciebat.
-
-**Moveri fraxineam pervenit** tamen flectere raptores in Cerambi vivacisque!
-Deum tum neque, procul in is series prorae, en. Nymphae propiora timidus, ora
-olor aderat fuit deus, ab est? Modo nisi? Quem suos, erat vitiato.
+텍스트 테스트하기에 완벽한 예시      
+이보다 완벽할 수는 없다.      
+자주 써먹어야겠다.     
+호카케 이미지 다운 받는건 귀찮아서 포기

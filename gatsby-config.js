@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `nehalem-starter`,
-    siteUrl: `https://nehalem.netlify.com`,
+    title: `gjhblog`,
+    siteUrl: `https://gjhblog.netlify.app`,
     description: `A Gatsby starter for nehalem`,
     topics: [],
     menu: [
@@ -13,6 +13,14 @@ module.exports = {
         name: 'Example',
         path: '/page'
       },
+      {
+        name: '메뉴1',
+        path: '/page'
+      },
+      {
+        name: '메뉴2',
+        path: '/page'
+      },
     ],
     footerMenu: [
       {
@@ -22,14 +30,12 @@ module.exports = {
     ],
     search: true,
     author: {
-      name: `nehalem`,
-      description: `I'm <strong>nehalem</strong>, a Gatsby theme by 
-        <a href="https://nehalist.io" rel="noopener" target="_blank">nehalist.io</a>. If you like what you see feel free to give a 
-        <a href="https://github.com/nehalist/gatsby-theme-nehalem" rel="noopener" target="_blank">star on GitHub!</a>`,
+      name: `GJH`,
+      description: `초보 웹 개발자`,
       social: {
         facebook: ``,
-        twitter: `https://twitter.com/nehalist`,
-        linkedin: `https://www.linkedin.com/in/kevin-hirczy-7a9377106/`,
+        twitter: ``,
+        linkedin: ``,
         instagram: ``,
         youtube: ``,
         github: `https://github.com/nehalist`,

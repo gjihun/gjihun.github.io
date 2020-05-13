@@ -15,15 +15,15 @@ module.exports = {
       },
       {
         name: 'Java',
-        path: '/page'
+        path: '/java'
       },
       {
         name: 'Vue',
-        path: '/page'
+        path: '/vue'
       },
       {
         name: 'Javascript',
-        path: '/page'
+        path: '/js'
       },
     ],
     footerMenu: [

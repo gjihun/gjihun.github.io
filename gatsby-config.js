@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `gjhblog`,
+    title: `Blog`,
     siteUrl: `https://gjhblog.netlify.app`,
-    description: `A Gatsby starter for nehalem`,
+    description: ``,
     topics: [],
     menu: [
       {
@@ -10,15 +10,19 @@ module.exports = {
         path: '/'
       },
       {
-        name: 'Example',
+        name: 'Post',
         path: '/page'
       },
       {
-        name: '메뉴1',
+        name: 'Java',
         path: '/page'
       },
       {
-        name: '메뉴2',
+        name: 'Vue',
+        path: '/page'
+      },
+      {
+        name: 'Javascript',
         path: '/page'
       },
     ],

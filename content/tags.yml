@@ -1,4 +1,19 @@
 - name: Demo
   color: "#007acc"
-  icon: ./assets/images/logo.png
+  icon: ./assets/images/rabbit.png
+  featured: true
+
+- name: js
+  color: "#007acc"
+  icon: ./assets/images/jsicon.png
+  featured: true
+
+- name: Vue
+  color: "#007acc"
+  icon: ./assets/images/homeP.png
+  featured: true
+
+- name: side
+  color: "#007acc"
+  icon: ./assets/images/coffee.png
   featured: true

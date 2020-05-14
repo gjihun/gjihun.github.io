@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Blog`,
     siteUrl: `https://gjhblog.netlify.app`,
-    description: ``,
+    description: `Personal Study`,
     topics: [],
     menu: [
       {
@@ -42,7 +42,7 @@ module.exports = {
         linkedin: ``,
         instagram: ``,
         youtube: ``,
-        github: `https://github.com/nehalist`,
+        github: `https://github.com/gjihun`,
         twitch: ``
       }
     }
